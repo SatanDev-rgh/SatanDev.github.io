@@ -1,2 +1,2 @@
-# SatanDev.github.io
+# SatanDev
 All tweaks for JB devices in 1 Place
